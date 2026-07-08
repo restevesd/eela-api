@@ -4,7 +4,7 @@
 """
 API v1 — Implementación Mínima
 ═══════════════════════════════════════════════════════════════════════
-FastAPI con un solo endpoint de predicción.
+FastAPI con un solo endpoint de predicción.-
 Sin validación ni modelos Pydantic — ideal para entender los fundamentos
 antes de añadir capas de complejidad.
 
